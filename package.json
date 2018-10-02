@@ -1,0 +1,21 @@
+{
+  "name": "http-api-assignment",
+  "version": "1.0.0",
+  "description": "api assignemtn i wanna die",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Tests complete\"",
+    "pretest": "eslint ./src --fix",
+    "start": "node ./src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lazorkitten/http-api-assignment.git"
+  },
+  "author": "david katter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lazorkitten/http-api-assignment/issues"
+  },
+  "homepage": "https://github.com/lazorkitten/http-api-assignment#readme"
+}
